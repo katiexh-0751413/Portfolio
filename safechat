@@ -1,520 +1,520 @@
-<div style={{width: 1728, height: 30851, position: 'relative', background: 'white', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)'}}>
-  <div style={{width: 1728, height: 98, left: 0, top: 30753, position: 'absolute'}}>
-    <div style={{left: 82, top: 35, position: 'absolute', color: 'rgba(0, 0, 0, 0.62)', fontSize: 20, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 27, wordWrap: 'break-word'}}>© Designed and Developed by Katie Hancock</div>
-    <img style={{width: 50, height: 50, left: 1454, top: 24, position: 'absolute'}} src="https://via.placeholder.com/50x50" />
-    <img style={{width: 50, height: 50, left: 1529, top: 24, position: 'absolute'}} src="https://via.placeholder.com/50x50" />
-    <img style={{width: 50, height: 50, left: 1604, top: 24, position: 'absolute'}} src="https://via.placeholder.com/50x50" />
+<div style="width: 1728px; height: 30851px; position: relative; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
+  <div style="width: 1728px; height: 98px; left: 0px; top: 30753px; position: absolute">
+    <div style="left: 82px; top: 35px; position: absolute; color: rgba(0, 0, 0, 0.62); font-size: 20px; font-family: Epilogue; font-weight: 400; line-height: 27px; word-wrap: break-word">© Designed and Developed by Katie Hancock</div>
+    <img style="width: 50px; height: 50px; left: 1454px; top: 24px; position: absolute" src="https://via.placeholder.com/50x50" />
+    <img style="width: 50px; height: 50px; left: 1529px; top: 24px; position: absolute" src="https://via.placeholder.com/50x50" />
+    <img style="width: 50px; height: 50px; left: 1604px; top: 24px; position: absolute" src="https://via.placeholder.com/50x50" />
   </div>
-  <div style={{width: 1728, height: 30081, left: 0, top: 672, position: 'absolute'}}>
-    <div style={{width: 228, height: 69, left: 425, top: 70, position: 'absolute', color: 'black', fontSize: 48, fontFamily: 'Epilogue', fontWeight: '600', lineHeight: 27, wordWrap: 'break-word'}}>SafeChat</div>
-    <div style={{width: 218, left: 100, top: 856, position: 'absolute', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 30, wordWrap: 'break-word'}}>Ashlyn Aske<br/>Christian Ramos<br/>Katie Hancock<br/>Shivam Hingorani</div>
-    <div style={{left: 100, top: 814, position: 'absolute', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontWeight: '700', lineHeight: 27, wordWrap: 'break-word'}}>Team</div>
-    <div style={{width: 199, left: 100, top: 644, position: 'absolute', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 30, wordWrap: 'break-word'}}>Figma<br/>Miro<br/>Storyboard That<br/>Canva</div>
-    <div style={{left: 100, top: 602, position: 'absolute', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontWeight: '700', lineHeight: 27, wordWrap: 'break-word'}}>Tools</div>
-    <div style={{width: 257, left: 100, top: 342, position: 'absolute', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 30, wordWrap: 'break-word'}}>User Research<br/>User Personas<br/>User Journey Map<br/>Storyboard<br/>Prototyping<br/>Usability Testing<br/>Interface Redesign</div>
-    <div style={{left: 100, top: 300, position: 'absolute', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontWeight: '700', lineHeight: 27, wordWrap: 'break-word'}}>Key Contributions</div>
-    <div style={{width: 257, left: 100, top: 223, position: 'absolute', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 27, wordWrap: 'break-word'}}>March - June, 2021</div>
-    <div style={{left: 100, top: 181, position: 'absolute', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontWeight: '700', lineHeight: 27, wordWrap: 'break-word'}}>Duration</div>
-    <img style={{width: 200, height: 81.57, left: 93, top: 70, position: 'absolute'}} src="https://via.placeholder.com/200x82" />
-    <div style={{width: 1086, height: 295, left: 425, top: 159, position: 'absolute'}}><span style="color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '600', lineHeight: 50, wordWrap: 'break-word'">Where support meets convenience, one chat at a time.</span><span style="color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'"> SafeChat is a mobile app tailored to cater to the specific mental health needs of University of Washington students. It's a platform that's designed to bridge the gap between readily accessible, on-demand mental health support and the unique challenges faced by college students.</span></div>
-    <div style={{width: 1084, left: 425, top: 571, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'}}>Our research delved into the hurdles university students encounter when seeking mental health resources. Through in-depth user interviews, we discovered prevalent issues:</div>
-    <div style={{left: 425, top: 504, position: 'absolute', color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>USER RESEARCH</div>
-    <div style={{width: 1084, left: 425, top: 741, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'}}>Lack of awareness about available resources<br/>Accessibility barriers including cost and availability<br/>A preference for indirect communication channels<br/>Skepticism toward AI-based mental health support</div>
-    <div style={{left: 425, top: 991, position: 'absolute', color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>USER PERSONAS</div>
-    <div style={{width: 1084, left: 425, top: 1061, position: 'absolute'}}><span style="color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'">Meet </span><span style="color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'">Erica</span><span style="color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'">, a 31-year-old graduate student in Applied Math, and </span><span style="color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'">Mike</span><span style="color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'">, a 20-year-old sophomore studying Human Centered Design & Engineering. </span><span style="color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'">Erica</span><span style="color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'"> seeks immediate, affordable support, while </span><span style="color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'">Mike</span><span style="color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'"> prefers human-centric approaches at a lower cost. SafeChat aims to cater to these varying needs by offering an adaptable platform that integrates intuitive features for both users.</span></div>
-    <div style={{width: 746, height: 495, left: 491, top: 1461, position: 'absolute', background: '#F5F5F5'}}>
-      <div style={{width: 746, height: 182, left: 0, top: 0, position: 'absolute', background: '#1565C0'}}>
-        <div style={{left: 30, top: 100, position: 'absolute', textAlign: 'center', color: '#F5F5F5', fontSize: 24, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>GRADUATE STUDENT</div>
-        <div style={{left: 504, top: 32, position: 'absolute', textAlign: 'center', color: '#F5F5F5', fontSize: 22, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>CHARACTERISTICS</div>
-        <div style={{width: 220, left: 504, top: 65, position: 'absolute', color: '#F5F5F5', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>31 years old<br/>Female<br/>Graduate student at the University of Washington<br/>Has been using mental health support regularly for several years</div>
+  <div style="width: 1728px; height: 30081px; left: 0px; top: 672px; position: absolute">
+    <div style="width: 228px; height: 69px; left: 425px; top: 70px; position: absolute; color: black; font-size: 48px; font-family: Epilogue; font-weight: 600; line-height: 27px; word-wrap: break-word">SafeChat</div>
+    <div style="width: 218px; left: 100px; top: 856px; position: absolute; color: black; font-size: 24px; font-family: Epilogue; font-weight: 400; line-height: 30px; word-wrap: break-word">Ashlyn Aske<br/>Christian Ramos<br/>Katie Hancock<br/>Shivam Hingorani</div>
+    <div style="left: 100px; top: 814px; position: absolute; color: black; font-size: 24px; font-family: Epilogue; font-weight: 700; line-height: 27px; word-wrap: break-word">Team</div>
+    <div style="width: 199px; left: 100px; top: 644px; position: absolute; color: black; font-size: 24px; font-family: Epilogue; font-weight: 400; line-height: 30px; word-wrap: break-word">Figma<br/>Miro<br/>Storyboard That<br/>Canva</div>
+    <div style="left: 100px; top: 602px; position: absolute; color: black; font-size: 24px; font-family: Epilogue; font-weight: 700; line-height: 27px; word-wrap: break-word">Tools</div>
+    <div style="width: 257px; left: 100px; top: 342px; position: absolute; color: black; font-size: 24px; font-family: Epilogue; font-weight: 400; line-height: 30px; word-wrap: break-word">User Research<br/>User Personas<br/>User Journey Map<br/>Storyboard<br/>Prototyping<br/>Usability Testing<br/>Interface Redesign</div>
+    <div style="left: 100px; top: 300px; position: absolute; color: black; font-size: 24px; font-family: Epilogue; font-weight: 700; line-height: 27px; word-wrap: break-word">Key Contributions</div>
+    <div style="width: 257px; left: 100px; top: 223px; position: absolute; color: black; font-size: 24px; font-family: Epilogue; font-weight: 400; line-height: 27px; word-wrap: break-word">March - June, 2021</div>
+    <div style="left: 100px; top: 181px; position: absolute; color: black; font-size: 24px; font-family: Epilogue; font-weight: 700; line-height: 27px; word-wrap: break-word">Duration</div>
+    <img style="width: 200px; height: 81.57px; left: 93px; top: 70px; position: absolute" src="https://via.placeholder.com/200x82" />
+    <div style="width: 1086px; height: 295px; left: 425px; top: 159px; position: absolute"><span style="color: black; font-size: 32px; font-family: Epilogue; font-weight: 600; line-height: 50px; word-wrap: break-word">Where support meets convenience, one chat at a time.</span><span style="color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word"> SafeChat is a mobile app tailored to cater to the specific mental health needs of University of Washington students. It's a platform that's designed to bridge the gap between readily accessible, on-demand mental health support and the unique challenges faced by college students.</span></div>
+    <div style="width: 1084px; left: 425px; top: 571px; position: absolute; color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">Our research delved into the hurdles university students encounter when seeking mental health resources. Through in-depth user interviews, we discovered prevalent issues:</div>
+    <div style="left: 425px; top: 504px; position: absolute; color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 500; line-height: 50px; word-wrap: break-word">USER RESEARCH</div>
+    <div style="width: 1084px; left: 425px; top: 741px; position: absolute; color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">Lack of awareness about available resources<br/>Accessibility barriers including cost and availability<br/>A preference for indirect communication channels<br/>Skepticism toward AI-based mental health support</div>
+    <div style="left: 425px; top: 991px; position: absolute; color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 500; line-height: 50px; word-wrap: break-word">USER PERSONAS</div>
+    <div style="width: 1084px; left: 425px; top: 1061px; position: absolute"><span style="color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">Meet </span><span style="color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">Erica</span><span style="color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">, a 31-year-old graduate student in Applied Math, and </span><span style="color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">Mike</span><span style="color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">, a 20-year-old sophomore studying Human Centered Design & Engineering. </span><span style="color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">Erica</span><span style="color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word"> seeks immediate, affordable support, while </span><span style="color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">Mike</span><span style="color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word"> prefers human-centric approaches at a lower cost. SafeChat aims to cater to these varying needs by offering an adaptable platform that integrates intuitive features for both users.</span></div>
+    <div style="width: 746px; height: 495px; left: 491px; top: 1461px; position: absolute; background: #F5F5F5">
+      <div style="width: 746px; height: 182px; left: 0px; top: 0px; position: absolute; background: #1565C0">
+        <div style="left: 30px; top: 100px; position: absolute; text-align: center; color: #F5F5F5; font-size: 24px; font-family: Roboto; font-weight: 600; word-wrap: break-word">GRADUATE STUDENT</div>
+        <div style="left: 504px; top: 32px; position: absolute; text-align: center; color: #F5F5F5; font-size: 22px; font-family: Roboto; font-weight: 600; word-wrap: break-word">CHARACTERISTICS</div>
+        <div style="width: 220px; left: 504px; top: 65px; position: absolute; color: #F5F5F5; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">31 years old<br/>Female<br/>Graduate student at the University of Washington<br/>Has been using mental health support regularly for several years</div>
       </div>
-      <div style={{left: 30, top: 55, position: 'absolute', textAlign: 'center', color: '#F5F5F5', fontSize: 28, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>ERICA M.</div>
-      <div style={{width: 160, left: 263, top: 281, position: 'absolute', textAlign: 'center', color: '#1565C0', fontSize: 22, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>BACKGROUND</div>
-      <div style={{width: 207, left: 30, top: 330, position: 'absolute', textAlign: 'center', color: '#1565C0', fontSize: 22, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>TECHNOLOGY USE</div>
-      <div style={{left: 30, top: 207, position: 'absolute', textAlign: 'center', color: '#1565C0', fontSize: 22, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>GOALS</div>
-      <div style={{left: 524, top: 207, position: 'absolute', textAlign: 'center', color: '#1565C0', fontSize: 22, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>PAIN POINTS</div>
-      <div style={{left: 524, top: 322, position: 'absolute', textAlign: 'center', color: '#1565C0', fontSize: 22, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>DESIRES</div>
-      <div style={{width: 233, left: 271, top: 368, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>She needs an outlet to help her decompress and process her emotions. She could wait to see her therapist later in the week, but she wants more immediate support.</div>
-      <div style={{width: 233, left: 271, top: 315, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>Erica is currently attending the University of Washington as a graduate student and is studying Applied Math.</div>
-      <div style={{width: 192, left: 30, top: 240, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>Daily mental health support<br/>Ability to access support anytime, with a variety of options</div>
-      <div style={{width: 192, left: 524, top: 240, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>Current support options cost too much<br/>Adequate support is difficult to find</div>
-      <div style={{width: 192, left: 524, top: 355, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>Intuitive user experience<br/>Self-care features, such as journaling, meditation, calmness exercises, etc.<br/>Affordable care</div>
-      <div style={{width: 220, left: 30, top: 356, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>Substantial experience using chat-bots - both positive and negative<br/>Prefers support from people - skeptical about the use of AI in this context</div>
-      <div style={{width: 200, height: 200, left: 273, top: 81, position: 'absolute', background: '#F5F5F5', borderRadius: 9999}} />
-      <div style={{width: 150, height: 150, left: 298, top: 106, position: 'absolute', background: '#D9D9D9', borderRadius: 9999}} />
-      <img style={{width: 150, height: 191.37, left: 298, top: 68, position: 'absolute'}} src="https://via.placeholder.com/150x191" />
+      <div style="left: 30px; top: 55px; position: absolute; text-align: center; color: #F5F5F5; font-size: 28px; font-family: Roboto; font-weight: 600; word-wrap: break-word">ERICA M.</div>
+      <div style="width: 160px; left: 263px; top: 281px; position: absolute; text-align: center; color: #1565C0; font-size: 22px; font-family: Roboto; font-weight: 600; word-wrap: break-word">BACKGROUND</div>
+      <div style="width: 207px; left: 30px; top: 330px; position: absolute; text-align: center; color: #1565C0; font-size: 22px; font-family: Roboto; font-weight: 600; word-wrap: break-word">TECHNOLOGY USE</div>
+      <div style="left: 30px; top: 207px; position: absolute; text-align: center; color: #1565C0; font-size: 22px; font-family: Roboto; font-weight: 600; word-wrap: break-word">GOALS</div>
+      <div style="left: 524px; top: 207px; position: absolute; text-align: center; color: #1565C0; font-size: 22px; font-family: Roboto; font-weight: 600; word-wrap: break-word">PAIN POINTS</div>
+      <div style="left: 524px; top: 322px; position: absolute; text-align: center; color: #1565C0; font-size: 22px; font-family: Roboto; font-weight: 600; word-wrap: break-word">DESIRES</div>
+      <div style="width: 233px; left: 271px; top: 368px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">She needs an outlet to help her decompress and process her emotions. She could wait to see her therapist later in the week, but she wants more immediate support.</div>
+      <div style="width: 233px; left: 271px; top: 315px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Erica is currently attending the University of Washington as a graduate student and is studying Applied Math.</div>
+      <div style="width: 192px; left: 30px; top: 240px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Daily mental health support<br/>Ability to access support anytime, with a variety of options</div>
+      <div style="width: 192px; left: 524px; top: 240px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Current support options cost too much<br/>Adequate support is difficult to find</div>
+      <div style="width: 192px; left: 524px; top: 355px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Intuitive user experience<br/>Self-care features, such as journaling, meditation, calmness exercises, etc.<br/>Affordable care</div>
+      <div style="width: 220px; left: 30px; top: 356px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Substantial experience using chat-bots - both positive and negative<br/>Prefers support from people - skeptical about the use of AI in this context</div>
+      <div style="width: 200px; height: 200px; left: 273px; top: 81px; position: absolute; background: #F5F5F5; border-radius: 9999px"></div>
+      <div style="width: 150px; height: 150px; left: 298px; top: 106px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+      <img style="width: 150px; height: 191.37px; left: 298px; top: 68px; position: absolute" src="https://via.placeholder.com/150x191" />
     </div>
-    <div style={{left: 781, top: 1976, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Erica Persona</div>
-    <div style={{width: 746, height: 495, left: 491, top: 2126, position: 'absolute', background: '#F5F5F5', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)'}}>
-      <div style={{width: 746, height: 182, left: 0, top: 0, position: 'absolute', background: '#1565C0'}}>
-        <div style={{left: 30, top: 93, position: 'absolute', color: '#F5F5F5', fontSize: 24, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>UNDERGRADUATE<br/>STUDENT</div>
-        <div style={{left: 504, top: 36, position: 'absolute', textAlign: 'center', color: '#F5F5F5', fontSize: 22, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>CHARACTERISTICS</div>
-        <div style={{width: 220, left: 504, top: 70, position: 'absolute', color: '#F5F5F5', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>20 years old<br/>Male<br/>Undergraduate student at the University of Washington<br/>Hasn’t attempted to receive mental health support</div>
+    <div style="left: 781px; top: 1976px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Erica Persona</div>
+    <div style="width: 746px; height: 495px; left: 491px; top: 2126px; position: absolute; background: #F5F5F5; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
+      <div style="width: 746px; height: 182px; left: 0px; top: 0px; position: absolute; background: #1565C0">
+        <div style="left: 30px; top: 93px; position: absolute; color: #F5F5F5; font-size: 24px; font-family: Roboto; font-weight: 600; word-wrap: break-word">UNDERGRADUATE<br/>STUDENT</div>
+        <div style="left: 504px; top: 36px; position: absolute; text-align: center; color: #F5F5F5; font-size: 22px; font-family: Roboto; font-weight: 600; word-wrap: break-word">CHARACTERISTICS</div>
+        <div style="width: 220px; left: 504px; top: 70px; position: absolute; color: #F5F5F5; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">20 years old<br/>Male<br/>Undergraduate student at the University of Washington<br/>Hasn’t attempted to receive mental health support</div>
       </div>
-      <div style={{left: 30, top: 55, position: 'absolute', textAlign: 'center', color: '#F5F5F5', fontSize: 28, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>MIKE L.</div>
-      <div style={{width: 207, left: 30, top: 330, position: 'absolute', textAlign: 'center', color: '#1565C0', fontSize: 22, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>TECHNOLOGY USE</div>
-      <div style={{left: 30, top: 207, position: 'absolute', textAlign: 'center', color: '#1565C0', fontSize: 22, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>GOALS</div>
-      <div style={{left: 529, top: 207, position: 'absolute', textAlign: 'center', color: '#1565C0', fontSize: 22, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>PAIN POINTS</div>
-      <div style={{left: 524, top: 372, position: 'absolute', textAlign: 'center', color: '#1565C0', fontSize: 22, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>DESIRES</div>
-      <div style={{width: 235, left: 268, top: 363, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>He has experienced a rough past couple of days trying to juggle his day-to-day tasks as a student and doesn’t know how to deal with the stressful deadlines.</div>
-      <div style={{width: 238, left: 269, top: 433, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>He does not want to burden his family & friends around him with any mental issues he’s dealing with.</div>
-      <div style={{width: 235, left: 269, top: 306, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>Mike is a sophomore at the University of Washington and is hoping to major in Human Centered Design & Engineering.</div>
-      <div style={{width: 192, left: 30, top: 240, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>Quick and efficient support<br/>Locate best-fit resources<br/>Able to refer family and friends</div>
-      <div style={{width: 195, left: 529, top: 240, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>Resources are not easy to find<br/>Currently no inexpensive, high quality resources available<br/>Having to share personal information to be potentially stored in a database</div>
-      <div style={{width: 208, left: 524, top: 405, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>Appealing and easy-to-use application<br/>Low cost and accessible<br/>Humanistic interface</div>
-      <div style={{width: 220, left: 31, top: 363, position: 'absolute', color: '#1F2421', fontSize: 13, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>Has some experience/familiarity with online chat-bot services<br/>AI usage is not preferred when trying to receive proper mental health support<br/>Prefers human interaction and experience</div>
-      <div style={{width: 200, height: 200, left: 273, top: 81, position: 'absolute', background: '#F5F5F5', borderRadius: 9999}} />
-      <div style={{width: 160, left: 261, top: 271, position: 'absolute', textAlign: 'center', color: '#1565C0', fontSize: 22, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>BACKGROUND</div>
-      <div style={{width: 150, height: 150, left: 298, top: 106, position: 'absolute', background: '#D9D9D9', borderRadius: 9999}} />
-      <img style={{width: 150, height: 195.16, left: 298, top: 100, position: 'absolute'}} src="https://via.placeholder.com/150x195" />
+      <div style="left: 30px; top: 55px; position: absolute; text-align: center; color: #F5F5F5; font-size: 28px; font-family: Roboto; font-weight: 600; word-wrap: break-word">MIKE L.</div>
+      <div style="width: 207px; left: 30px; top: 330px; position: absolute; text-align: center; color: #1565C0; font-size: 22px; font-family: Roboto; font-weight: 600; word-wrap: break-word">TECHNOLOGY USE</div>
+      <div style="left: 30px; top: 207px; position: absolute; text-align: center; color: #1565C0; font-size: 22px; font-family: Roboto; font-weight: 600; word-wrap: break-word">GOALS</div>
+      <div style="left: 529px; top: 207px; position: absolute; text-align: center; color: #1565C0; font-size: 22px; font-family: Roboto; font-weight: 600; word-wrap: break-word">PAIN POINTS</div>
+      <div style="left: 524px; top: 372px; position: absolute; text-align: center; color: #1565C0; font-size: 22px; font-family: Roboto; font-weight: 600; word-wrap: break-word">DESIRES</div>
+      <div style="width: 235px; left: 268px; top: 363px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">He has experienced a rough past couple of days trying to juggle his day-to-day tasks as a student and doesn’t know how to deal with the stressful deadlines.</div>
+      <div style="width: 238px; left: 269px; top: 433px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">He does not want to burden his family & friends around him with any mental issues he’s dealing with.</div>
+      <div style="width: 235px; left: 269px; top: 306px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Mike is a sophomore at the University of Washington and is hoping to major in Human Centered Design & Engineering.</div>
+      <div style="width: 192px; left: 30px; top: 240px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Quick and efficient support<br/>Locate best-fit resources<br/>Able to refer family and friends</div>
+      <div style="width: 195px; left: 529px; top: 240px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Resources are not easy to find<br/>Currently no inexpensive, high quality resources available<br/>Having to share personal information to be potentially stored in a database</div>
+      <div style="width: 208px; left: 524px; top: 405px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Appealing and easy-to-use application<br/>Low cost and accessible<br/>Humanistic interface</div>
+      <div style="width: 220px; left: 31px; top: 363px; position: absolute; color: #1F2421; font-size: 13px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Has some experience/familiarity with online chat-bot services<br/>AI usage is not preferred when trying to receive proper mental health support<br/>Prefers human interaction and experience</div>
+      <div style="width: 200px; height: 200px; left: 273px; top: 81px; position: absolute; background: #F5F5F5; border-radius: 9999px"></div>
+      <div style="width: 160px; left: 261px; top: 271px; position: absolute; text-align: center; color: #1565C0; font-size: 22px; font-family: Roboto; font-weight: 600; word-wrap: break-word">BACKGROUND</div>
+      <div style="width: 150px; height: 150px; left: 298px; top: 106px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+      <img style="width: 150px; height: 195.16px; left: 298px; top: 100px; position: absolute" src="https://via.placeholder.com/150x195" />
     </div>
-    <div style={{left: 784, top: 2641, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Mike Persona</div>
-    <div style={{left: 425, top: 2741, position: 'absolute', color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>USER JOURNEY MAP</div>
-    <div style={{width: 1084, left: 425, top: 2811, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'}}>To capture Mike's experience, we created a user journey map that highlighted his emotions, pain points, and moments of satisfaction while engaging with SafeChat.</div>
-    <div style={{width: 1547, height: 801, left: 91, top: 3061, position: 'absolute', background: '#F5F5F5'}}>
-      <div style={{width: 1824, height: 1056, left: 0, top: 0, position: 'absolute', background: '#F5F5F5'}} />
-      <img style={{width: 96, height: 96, left: 37, top: 48, position: 'absolute', borderRadius: 9999, border: '3px #1F2421 solid'}} src="https://via.placeholder.com/96x96" />
-      <div style={{left: 155, top: 77, position: 'absolute', color: '#1F2421', fontSize: 32, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>Mike’s User Journey Map</div>
-      <div style={{width: 120, height: 128, left: 154, top: 534, position: 'absolute', color: '#1F2421', fontSize: 15, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>Mike finishes his last class, feeling overwhelmed after a tough day at school.</div>
-      <div style={{width: 120, height: 150, left: 289, top: 534, position: 'absolute', color: '#1F2421', fontSize: 15, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>He tries reaching out to his mom but understands she’s busy and decides not to bother her.</div>
-      <div style={{width: 120, height: 174, left: 424, top: 534, position: 'absolute', color: '#1F2421', fontSize: 15, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>Feeling alone, he attempts to talk to his sibling, but they’re also in a bad mood and asks him to leave.</div>
-      <div style={{width: 120, height: 149, left: 559, top: 534, position: 'absolute', color: '#1F2421', fontSize: 15, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>Hoping for a friendly response, he texts a friend, but there’s no immediate reply.</div>
-      <div style={{width: 120, height: 200, left: 694, top: 534, position: 'absolute', color: '#1F2421', fontSize: 15, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>Feeling increasingly distressed, he searches online for “someone to talk to UW” for immediate support.</div>
-      <div style={{width: 120, height: 173, left: 829, top: 534, position: 'absolute', color: '#1F2421', fontSize: 15, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>He discovers the Let’s Talk program but realizes there are no available slots until the next day.</div>
-      <div style={{width: 120, height: 196, left: 964, top: 534, position: 'absolute', color: '#1F2421', fontSize: 15, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>Looking for other UW counseling services, he finds that appointments are only available after several days.</div>
-      <div style={{width: 120, height: 200, left: 1099, top: 534, position: 'absolute', color: '#1F2421', fontSize: 15, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>He explores external providers, but the costs are prohibitive, and insurance coverage seems unclear.</div>
-      <div style={{width: 120, height: 174, left: 1234, top: 534, position: 'absolute', color: '#1F2421', fontSize: 15, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>With no immediate solution in sight, he refocuses on his assignment, feeling stressed and unresolved.</div>
-      <div style={{width: 120, height: 174, left: 1369, top: 534, position: 'absolute', color: '#1F2421', fontSize: 15, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>Despite trying to concentrate on his work, he goes to bed that night feeling emotionally strained and unsettled.</div>
-      <div style={{width: 13, height: 13, left: 217, top: 232, position: 'absolute'}}>
-        <div style={{width: 13, height: 13, left: 0, top: 0, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-        <div style={{width: 9, height: 9, left: 2, top: 2, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
+    <div style="left: 784px; top: 2641px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Mike Persona</div>
+    <div style="left: 425px; top: 2741px; position: absolute; color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 500; line-height: 50px; word-wrap: break-word">USER JOURNEY MAP</div>
+    <div style="width: 1084px; left: 425px; top: 2811px; position: absolute; color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">To capture Mike's experience, we created a user journey map that highlighted his emotions, pain points, and moments of satisfaction while engaging with SafeChat.</div>
+    <div style="width: 1547px; height: 801px; left: 91px; top: 3061px; position: absolute; background: #F5F5F5">
+      <div style="width: 1824px; height: 1056px; left: 0px; top: 0px; position: absolute; background: #F5F5F5"></div>
+      <img style="width: 96px; height: 96px; left: 37px; top: 48px; position: absolute; border-radius: 9999px; border: 3px #1F2421 solid" src="https://via.placeholder.com/96x96" />
+      <div style="left: 155px; top: 77px; position: absolute; color: #1F2421; font-size: 32px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Mike’s User Journey Map</div>
+      <div style="width: 120px; height: 128px; left: 154px; top: 534px; position: absolute; color: #1F2421; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">Mike finishes his last class, feeling overwhelmed after a tough day at school.</div>
+      <div style="width: 120px; height: 150px; left: 289px; top: 534px; position: absolute; color: #1F2421; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">He tries reaching out to his mom but understands she’s busy and decides not to bother her.</div>
+      <div style="width: 120px; height: 174px; left: 424px; top: 534px; position: absolute; color: #1F2421; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">Feeling alone, he attempts to talk to his sibling, but they’re also in a bad mood and asks him to leave.</div>
+      <div style="width: 120px; height: 149px; left: 559px; top: 534px; position: absolute; color: #1F2421; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">Hoping for a friendly response, he texts a friend, but there’s no immediate reply.</div>
+      <div style="width: 120px; height: 200px; left: 694px; top: 534px; position: absolute; color: #1F2421; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">Feeling increasingly distressed, he searches online for “someone to talk to UW” for immediate support.</div>
+      <div style="width: 120px; height: 173px; left: 829px; top: 534px; position: absolute; color: #1F2421; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">He discovers the Let’s Talk program but realizes there are no available slots until the next day.</div>
+      <div style="width: 120px; height: 196px; left: 964px; top: 534px; position: absolute; color: #1F2421; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">Looking for other UW counseling services, he finds that appointments are only available after several days.</div>
+      <div style="width: 120px; height: 200px; left: 1099px; top: 534px; position: absolute; color: #1F2421; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">He explores external providers, but the costs are prohibitive, and insurance coverage seems unclear.</div>
+      <div style="width: 120px; height: 174px; left: 1234px; top: 534px; position: absolute; color: #1F2421; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">With no immediate solution in sight, he refocuses on his assignment, feeling stressed and unresolved.</div>
+      <div style="width: 120px; height: 174px; left: 1369px; top: 534px; position: absolute; color: #1F2421; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">Despite trying to concentrate on his work, he goes to bed that night feeling emotionally strained and unsettled.</div>
+      <div style="width: 13px; height: 13px; left: 217px; top: 232px; position: absolute">
+        <div style="width: 13px; height: 13px; left: 0px; top: 0px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+        <div style="width: 9px; height: 9px; left: 2px; top: 2px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
       </div>
-      <div style={{width: 13, height: 13, left: 340, top: 268, position: 'absolute'}}>
-        <div style={{width: 13, height: 13, left: 0, top: 0, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-        <div style={{width: 9, height: 9, left: 2, top: 2, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
+      <div style="width: 13px; height: 13px; left: 340px; top: 268px; position: absolute">
+        <div style="width: 13px; height: 13px; left: 0px; top: 0px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+        <div style="width: 9px; height: 9px; left: 2px; top: 2px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
       </div>
-      <div style={{width: 13, height: 13, left: 473, top: 307, position: 'absolute'}}>
-        <div style={{width: 13, height: 13, left: 0, top: 0, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-        <div style={{width: 9, height: 9, left: 2, top: 2, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
+      <div style="width: 13px; height: 13px; left: 473px; top: 307px; position: absolute">
+        <div style="width: 13px; height: 13px; left: 0px; top: 0px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+        <div style="width: 9px; height: 9px; left: 2px; top: 2px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
       </div>
-      <div style={{width: 13, height: 13, left: 586, top: 278, position: 'absolute'}}>
-        <div style={{width: 13, height: 13, left: 0, top: 0, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-        <div style={{width: 9, height: 9, left: 2, top: 2, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
+      <div style="width: 13px; height: 13px; left: 586px; top: 278px; position: absolute">
+        <div style="width: 13px; height: 13px; left: 0px; top: 0px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+        <div style="width: 9px; height: 9px; left: 2px; top: 2px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
       </div>
-      <div style={{width: 13, height: 13, left: 738, top: 271, position: 'absolute'}}>
-        <div style={{width: 13, height: 13, left: 0, top: 0, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-        <div style={{width: 9, height: 9, left: 2, top: 2, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
+      <div style="width: 13px; height: 13px; left: 738px; top: 271px; position: absolute">
+        <div style="width: 13px; height: 13px; left: 0px; top: 0px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+        <div style="width: 9px; height: 9px; left: 2px; top: 2px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
       </div>
-      <div style={{width: 13, height: 13, left: 892, top: 313, position: 'absolute'}}>
-        <div style={{width: 13, height: 13, left: 0, top: 0, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-        <div style={{width: 9, height: 9, left: 2, top: 2, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
+      <div style="width: 13px; height: 13px; left: 892px; top: 313px; position: absolute">
+        <div style="width: 13px; height: 13px; left: 0px; top: 0px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+        <div style="width: 9px; height: 9px; left: 2px; top: 2px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
       </div>
-      <div style={{width: 13, height: 13, left: 1151, top: 315, position: 'absolute'}}>
-        <div style={{width: 13, height: 13, left: 0, top: 0, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-        <div style={{width: 9, height: 9, left: 2, top: 2, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
+      <div style="width: 13px; height: 13px; left: 1151px; top: 315px; position: absolute">
+        <div style="width: 13px; height: 13px; left: 0px; top: 0px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+        <div style="width: 9px; height: 9px; left: 2px; top: 2px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
       </div>
-      <div style={{width: 13, height: 13, left: 1287, top: 230, position: 'absolute'}}>
-        <div style={{width: 13, height: 13, left: 0, top: 0, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-        <div style={{width: 9, height: 9, left: 2, top: 2, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
+      <div style="width: 13px; height: 13px; left: 1287px; top: 230px; position: absolute">
+        <div style="width: 13px; height: 13px; left: 0px; top: 0px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+        <div style="width: 9px; height: 9px; left: 2px; top: 2px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
       </div>
-      <div style={{width: 13, height: 13, left: 1027, top: 367, position: 'absolute'}}>
-        <div style={{width: 13, height: 13, left: 0, top: 0, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-        <div style={{width: 9, height: 9, left: 2, top: 2, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
+      <div style="width: 13px; height: 13px; left: 1027px; top: 367px; position: absolute">
+        <div style="width: 13px; height: 13px; left: 0px; top: 0px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+        <div style="width: 9px; height: 9px; left: 2px; top: 2px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
       </div>
-      <div style={{width: 13, height: 13, left: 1425, top: 275, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 1427, top: 277, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 1427, top: 277, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 1291, top: 451, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 1293, top: 453, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 1293, top: 453, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 1153, top: 415, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 1155, top: 417, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 1155, top: 417, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 1031, top: 425, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 1033, top: 427, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 1033, top: 427, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 891, top: 257, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 893, top: 259, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 893, top: 259, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 743, top: 326, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 745, top: 328, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 745, top: 328, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 586, top: 424, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 588, top: 426, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 588, top: 426, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 473, top: 367, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 475, top: 369, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 475, top: 369, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 343, top: 426, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 345, top: 428, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 345, top: 428, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 221, top: 453, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 223, top: 455, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 223, top: 455, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 1431, top: 337, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 1433, top: 339, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 1433, top: 339, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 1427, top: 230, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 1429, top: 232, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 1429, top: 232, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 1293, top: 357, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 1295, top: 359, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 1295, top: 359, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 1153, top: 273, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 1155, top: 275, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 1155, top: 275, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 1031, top: 315, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 1033, top: 317, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 1033, top: 317, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 887, top: 393, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 889, top: 395, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 889, top: 395, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 738, top: 292, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 740, top: 294, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 740, top: 294, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 586, top: 236, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 588, top: 238, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 588, top: 238, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 471, top: 285, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 473, top: 287, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 473, top: 287, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 341, top: 337, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 343, top: 339, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 343, top: 339, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13, height: 13, left: 215, top: 395, position: 'absolute', background: '#F5F5F5', borderRadius: 9999, border: '1px #2D5CB6 solid'}} />
-      <div style={{width: 9, height: 9, left: 217, top: 397, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 9, height: 9, left: 217, top: 397, position: 'absolute', background: '#2D5CB6', borderRadius: 9999}} />
-      <div style={{width: 13.40, height: 0, left: 163, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 196.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 226.44, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 256.44, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 286.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 316.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 346.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 376.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 406.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 436.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 466.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 496.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 526.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 556.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 586.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 616.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 646.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 676.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 706.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 736.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 766.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 796.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 826.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 856.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 886.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 916.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 946.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 976.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1006.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1036.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1066.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1096.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1126.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1156.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1186.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1216.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1246.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1276.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1306.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1336.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1366.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1396.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1426.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1456.40, top: 345, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 158, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 191.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 221.44, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 251.44, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 281.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 311.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 341.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 371.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 401.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 431.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 461.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 491.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 521.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 551.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 581.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 611.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 641.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 671.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 701.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 731.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 761.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 791.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 821.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 851.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 881.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 911.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 941.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 971.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1001.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1031.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1061.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1091.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1121.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1151.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1181.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1211.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1241.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1271.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1301.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1331.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1361.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1391.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1421.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1451.40, top: 236, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 163, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 196.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 226.44, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 256.44, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 286.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 316.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 346.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 376.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 406.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 436.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 466.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 496.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 526.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 556.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 586.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 616.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 646.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 676.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 706.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 736.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 766.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 796.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 826.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 856.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 886.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 916.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 946.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 976.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1006.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1036.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1066.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1096.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1126.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1156.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1186.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1216.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1246.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1276.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1306.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1336.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1366.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1396.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1426.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1456.40, top: 403, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 163, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 196.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 226.44, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 256.44, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 286.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 316.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 346.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 376.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 406.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 436.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 466.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 496.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 526.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 556.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 586.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 616.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 646.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 676.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 706.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 736.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 766.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 796.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 826.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 856.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 886.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 916.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 946.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 976.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1006.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1036.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1066.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1096.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1126.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1156.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1186.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1216.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1246.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1276.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1306.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1336.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1366.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1396.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1426.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1456.40, top: 291, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 160, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 193.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 223.44, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 253.44, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 283.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 313.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 343.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 373.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 403.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 433.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 463.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 493.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 523.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 553.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 583.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 613.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 643.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 673.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 703.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 733.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 763.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 793.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 823.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 853.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 883.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 913.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 943.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 973.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1003.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1033.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1063.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1093.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1123.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1153.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1183.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1213.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1243.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1273.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1303.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1333.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1363.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1393.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1423.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{width: 13.40, height: 0, left: 1453.40, top: 461, position: 'absolute', border: '1px #DDDDDD solid'}}></div>
-      <div style={{left: 154, top: 491, position: 'absolute', color: '#1F2421', fontSize: 18, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>4 PM</div>
-      <div style={{left: 694, top: 491, position: 'absolute', color: '#1F2421', fontSize: 18, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>6 PM</div>
-      <div style={{left: 1369, top: 491, position: 'absolute', color: '#1F2421', fontSize: 18, fontFamily: 'Roboto', fontWeight: '600', wordWrap: 'break-word'}}>10 PM</div>
-      <div style={{width: 55, height: 34, left: 64, top: 214, position: 'absolute', textAlign: 'right', color: '#1F2421', fontSize: 18, fontFamily: 'Roboto', fontWeight: '500', wordWrap: 'break-word'}}>High</div>
-      <div style={{width: 37, height: 34, left: 82, top: 439, position: 'absolute', textAlign: 'right', color: '#1F2421', fontSize: 18, fontFamily: 'Roboto', fontWeight: '500', wordWrap: 'break-word'}}>Low</div>
-      <div style={{width: 70, height: 34, left: 49, top: 321, position: 'absolute', textAlign: 'right', color: '#1F2421', fontSize: 18, fontFamily: 'Roboto', fontWeight: '500', wordWrap: 'break-word'}}>Medium</div>
-      <div style={{width: 1214, height: 138.62, left: 223, top: 236, position: 'absolute', opacity: 0.75, boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)', border: '2px #FB8632 solid'}}></div>
-      <div style={{width: 1206, height: 164.16, left: 225, top: 237.84, position: 'absolute', border: '2px #A80000 solid'}}></div>
-      <div style={{width: 1212, height: 198.21, left: 221, top: 262, position: 'absolute', border: '2px #1565C0 solid'}}></div>
-      <div style={{width: 1320, height: 0, left: 154, top: 528, position: 'absolute', border: '1px black solid'}}></div>
-      <div style={{width: 20, height: 20, left: 1368, top: 75, position: 'absolute', background: '#A80000'}} />
-      <div style={{width: 20, height: 20, left: 1368, top: 136, position: 'absolute', background: '#1565C0'}} />
-      <div style={{width: 20, height: 20, left: 1368, top: 105, position: 'absolute', background: '#FB8632'}} />
-      <div style={{width: 45, height: 26, left: 1399, top: 72, position: 'absolute', color: '#1F2421', fontSize: 14, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>Upset</div>
-      <div style={{width: 45, height: 26, left: 1399, top: 133, position: 'absolute', color: '#1F2421', fontSize: 14, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>Lonely</div>
-      <div style={{width: 57, height: 26, left: 1399, top: 102, position: 'absolute', color: '#1F2421', fontSize: 14, fontFamily: 'Roboto', fontWeight: '500', lineHeight: 25, wordWrap: 'break-word'}}>Stressed</div>
+      <div style="width: 13px; height: 13px; left: 1425px; top: 275px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 1427px; top: 277px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 1427px; top: 277px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 1291px; top: 451px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 1293px; top: 453px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 1293px; top: 453px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 1153px; top: 415px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 1155px; top: 417px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 1155px; top: 417px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 1031px; top: 425px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 1033px; top: 427px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 1033px; top: 427px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 891px; top: 257px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 893px; top: 259px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 893px; top: 259px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 743px; top: 326px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 745px; top: 328px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 745px; top: 328px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 586px; top: 424px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 588px; top: 426px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 588px; top: 426px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 473px; top: 367px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 475px; top: 369px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 475px; top: 369px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 343px; top: 426px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 345px; top: 428px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 345px; top: 428px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 221px; top: 453px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 223px; top: 455px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 223px; top: 455px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 1431px; top: 337px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 1433px; top: 339px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 1433px; top: 339px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 1427px; top: 230px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 1429px; top: 232px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 1429px; top: 232px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 1293px; top: 357px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 1295px; top: 359px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 1295px; top: 359px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 1153px; top: 273px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 1155px; top: 275px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 1155px; top: 275px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 1031px; top: 315px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 1033px; top: 317px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 1033px; top: 317px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 887px; top: 393px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 889px; top: 395px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 889px; top: 395px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 738px; top: 292px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 740px; top: 294px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 740px; top: 294px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 586px; top: 236px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 588px; top: 238px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 588px; top: 238px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 471px; top: 285px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 473px; top: 287px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 473px; top: 287px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 341px; top: 337px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 343px; top: 339px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 343px; top: 339px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13px; height: 13px; left: 215px; top: 395px; position: absolute; background: #F5F5F5; border-radius: 9999px; border: 1px #2D5CB6 solid"></div>
+      <div style="width: 9px; height: 9px; left: 217px; top: 397px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 9px; height: 9px; left: 217px; top: 397px; position: absolute; background: #2D5CB6; border-radius: 9999px"></div>
+      <div style="width: 13.40px; height: 0px; left: 163px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 196.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 226.44px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 256.44px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 286.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 316.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 346.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 376.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 406.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 436.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 466.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 496.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 526.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 556.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 586.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 616.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 646.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 676.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 706.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 736.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 766.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 796.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 826.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 856.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 886.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 916.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 946.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 976.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1006.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1036.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1066.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1096.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1126.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1156.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1186.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1216.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1246.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1276.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1306.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1336.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1366.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1396.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1426.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1456.40px; top: 345px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 158px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 191.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 221.44px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 251.44px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 281.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 311.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 341.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 371.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 401.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 431.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 461.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 491.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 521.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 551.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 581.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 611.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 641.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 671.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 701.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 731.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 761.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 791.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 821.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 851.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 881.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 911.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 941.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 971.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1001.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1031.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1061.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1091.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1121.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1151.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1181.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1211.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1241.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1271.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1301.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1331.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1361.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1391.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1421.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1451.40px; top: 236px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 163px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 196.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 226.44px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 256.44px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 286.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 316.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 346.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 376.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 406.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 436.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 466.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 496.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 526.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 556.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 586.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 616.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 646.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 676.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 706.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 736.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 766.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 796.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 826.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 856.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 886.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 916.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 946.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 976.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1006.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1036.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1066.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1096.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1126.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1156.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1186.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1216.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1246.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1276.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1306.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1336.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1366.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1396.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1426.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1456.40px; top: 403px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 163px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 196.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 226.44px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 256.44px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 286.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 316.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 346.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 376.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 406.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 436.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 466.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 496.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 526.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 556.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 586.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 616.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 646.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 676.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 706.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 736.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 766.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 796.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 826.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 856.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 886.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 916.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 946.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 976.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1006.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1036.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1066.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1096.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1126.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1156.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1186.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1216.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1246.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1276.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1306.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1336.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1366.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1396.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1426.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1456.40px; top: 291px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 160px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 193.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 223.44px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 253.44px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 283.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 313.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 343.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 373.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 403.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 433.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 463.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 493.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 523.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 553.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 583.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 613.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 643.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 673.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 703.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 733.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 763.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 793.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 823.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 853.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 883.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 913.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 943.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 973.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1003.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1033.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1063.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1093.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1123.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1153.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1183.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1213.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1243.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1273.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1303.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1333.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1363.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1393.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1423.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="width: 13.40px; height: 0px; left: 1453.40px; top: 461px; position: absolute; border: 1px #DDDDDD solid"></div>
+      <div style="left: 154px; top: 491px; position: absolute; color: #1F2421; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">4 PM</div>
+      <div style="left: 694px; top: 491px; position: absolute; color: #1F2421; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">6 PM</div>
+      <div style="left: 1369px; top: 491px; position: absolute; color: #1F2421; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">10 PM</div>
+      <div style="width: 55px; height: 34px; left: 64px; top: 214px; position: absolute; text-align: right; color: #1F2421; font-size: 18px; font-family: Roboto; font-weight: 500; word-wrap: break-word">High</div>
+      <div style="width: 37px; height: 34px; left: 82px; top: 439px; position: absolute; text-align: right; color: #1F2421; font-size: 18px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Low</div>
+      <div style="width: 70px; height: 34px; left: 49px; top: 321px; position: absolute; text-align: right; color: #1F2421; font-size: 18px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Medium</div>
+      <div style="width: 1214px; height: 138.62px; left: 223px; top: 236px; position: absolute; opacity: 0.75; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 2px #FB8632 solid"></div>
+      <div style="width: 1206px; height: 164.16px; left: 225px; top: 237.84px; position: absolute; border: 2px #A80000 solid"></div>
+      <div style="width: 1212px; height: 198.21px; left: 221px; top: 262px; position: absolute; border: 2px #1565C0 solid"></div>
+      <div style="width: 1320px; height: 0px; left: 154px; top: 528px; position: absolute; border: 1px black solid"></div>
+      <div style="width: 20px; height: 20px; left: 1368px; top: 75px; position: absolute; background: #A80000"></div>
+      <div style="width: 20px; height: 20px; left: 1368px; top: 136px; position: absolute; background: #1565C0"></div>
+      <div style="width: 20px; height: 20px; left: 1368px; top: 105px; position: absolute; background: #FB8632"></div>
+      <div style="width: 45px; height: 26px; left: 1399px; top: 72px; position: absolute; color: #1F2421; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">Upset</div>
+      <div style="width: 45px; height: 26px; left: 1399px; top: 133px; position: absolute; color: #1F2421; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">Lonely</div>
+      <div style="width: 57px; height: 26px; left: 1399px; top: 102px; position: absolute; color: #1F2421; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 25px; word-wrap: break-word">Stressed</div>
     </div>
-    <img style={{width: 1318, height: 1138, left: 230, top: 5893, position: 'absolute'}} src="https://via.placeholder.com/1318x1138" />
-    <img style={{width: 1446, height: 457, left: 148, top: 4302, position: 'absolute'}} src="https://via.placeholder.com/1446x457" />
-    <img style={{width: 1364, height: 834, left: 207, top: 4909, position: 'absolute'}} src="https://via.placeholder.com/1364x834" />
-    <div style={{left: 425, top: 4032, position: 'absolute', color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>STORYBOARDING THE EXPERIENCE</div>
-    <div style={{width: 1084, left: 425, top: 4102, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'}}>Visual storyboards outlined crucial user moments and emotions throughout SafeChat's mental health support journey.</div>
-    <div style={{left: 693, top: 3882, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Mike’s User Journey Map</div>
-    <div style={{left: 572, top: 4759, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Storyboard Created with Storyboard That</div>
-    <div style={{left: 640, top: 5743, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Storyboard Created with Storyboard That</div>
-    <div style={{left: 576, top: 7031, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Storyboard Created with Images, where I dressed up as Mike</div>
-    <img style={{width: 409, height: 532, left: 230, top: 7578, position: 'absolute'}} src="https://via.placeholder.com/409x532" />
-    <img style={{width: 413, height: 532, left: 688, top: 7578, position: 'absolute'}} src="https://via.placeholder.com/413x532" />
-    <img style={{width: 398, height: 532, left: 1150, top: 7578, position: 'absolute'}} src="https://via.placeholder.com/398x532" />
-    <img style={{width: 409, height: 542, left: 462, top: 8221, position: 'absolute'}} src="https://via.placeholder.com/409x542" />
-    <img style={{width: 406, height: 542, left: 920, top: 8221, position: 'absolute'}} src="https://via.placeholder.com/406x542" />
-    <div style={{left: 312, top: 8121, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 1: Homepage</div>
-    <div style={{left: 741, top: 8121, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 2: Instant Support</div>
-    <div style={{left: 1176, top: 8121, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 3: Scheduled Support</div>
-    <div style={{left: 544, top: 8778, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 4: Journaling</div>
-    <div style={{left: 934, top: 8778, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 5: Additional Resources</div>
-    <div style={{left: 425, top: 8978, position: 'absolute', color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>LOW-FIDELITY WIREFRAMES</div>
-    <div style={{width: 1084, left: 425, top: 9048, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'}}>We crafted low-fidelity wireframes in Figma to visualize SafeChat's interface structure. Utilizing simple shapes and basic elements, they outlined the layout and placement of key features within the app.</div>
-    <img style={{width: 303, height: 621, left: 1129, top: 9348, position: 'absolute'}} src="https://via.placeholder.com/303x621" />
-    <img style={{width: 303, height: 621, left: 739, top: 9348, position: 'absolute'}} src="https://via.placeholder.com/303x621" />
-    <img style={{width: 303, height: 621, left: 348, top: 9348, position: 'absolute'}} src="https://via.placeholder.com/303x621" />
-    <img style={{width: 303, height: 626.07, left: 348, top: 10029, position: 'absolute'}} src="https://via.placeholder.com/303x626" />
-    <img style={{width: 303, height: 626, left: 739, top: 10029, position: 'absolute'}} src="https://via.placeholder.com/303x626" />
-    <img style={{width: 303, height: 626, left: 1129, top: 10029, position: 'absolute'}} src="https://via.placeholder.com/303x626" />
-    <img style={{width: 303, height: 626.59, left: 348, top: 10715, position: 'absolute'}} src="https://via.placeholder.com/303x627" />
-    <img style={{width: 303, height: 627, left: 739, top: 10715, position: 'absolute'}} src="https://via.placeholder.com/303x627" />
-    <img style={{width: 303, height: 627, left: 1129, top: 10715, position: 'absolute'}} src="https://via.placeholder.com/303x627" />
-    <img style={{width: 303, height: 633, left: 348, top: 11402, position: 'absolute'}} src="https://via.placeholder.com/303x633" />
-    <img style={{width: 313, height: 638, left: 739, top: 11397, position: 'absolute'}} src="https://via.placeholder.com/313x638" />
-    <img style={{width: 311, height: 633, left: 1129, top: 11402, position: 'absolute'}} src="https://via.placeholder.com/311x633" />
-    <div style={{left: 425, top: 12185, position: 'absolute', color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>ANNOTATED WIREFRAMES</div>
-    <div style={{width: 1084, left: 425, top: 12255, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'}}>I annotated each wireframe, providing an in-depth depiction of the app's functionalities and interactions.</div>
-    <img style={{width: 1044, height: 769, left: 371, top: 12505, position: 'absolute'}} src="https://via.placeholder.com/1044x769" />
-    <img style={{width: 1026, height: 774, left: 392, top: 13308, position: 'absolute'}} src="https://via.placeholder.com/1026x774" />
-    <img style={{width: 1026, height: 793, left: 391, top: 14132, position: 'absolute'}} src="https://via.placeholder.com/1026x793" />
-    <img style={{width: 1029, height: 795, left: 391, top: 14975, position: 'absolute'}} src="https://via.placeholder.com/1029x795" />
-    <img style={{width: 1029, height: 817, left: 391, top: 15820, position: 'absolute'}} src="https://via.placeholder.com/1029x817" />
-    <div style={{left: 425, top: 16787, position: 'absolute', color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>HIGH-FIDELITY PROTOTYPE</div>
-    <div style={{width: 1084, left: 425, top: 16857, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'}}>Our team developed high-fidelity prototypes, undergoing significant iterations to enhance visual appeal and user interactions. Later, I undertook an independent iterative redesign, focusing on refining the UI and improving user experience.</div>
-    <div style={{left: 445, top: 17207, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>My Team’s Original UI</div>
-    <div style={{left: 1053, top: 17207, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>My Redesigned UI</div>
-    <img style={{width: 412, height: 841, left: 952, top: 17267, position: 'absolute'}} src="https://via.placeholder.com/412x841" />
-    <div style={{left: 741, top: 18118, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 1: Homepage</div>
-    <img style={{width: 412, height: 841, left: 952, top: 18244, position: 'absolute'}} src="https://via.placeholder.com/412x841" />
-    <img style={{width: 412, height: 841, left: 363, top: 17267, position: 'absolute'}} src="https://via.placeholder.com/412x841" />
-    <img style={{width: 412, height: 841, left: 363, top: 18244, position: 'absolute'}} src="https://via.placeholder.com/412x841" />
-    <div style={{left: 711, top: 19095, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 2: Scheduled Help</div>
-    <img style={{width: 412, height: 841, left: 952, top: 19221, position: 'absolute'}} src="https://via.placeholder.com/412x841" />
-    <img style={{width: 414, height: 841, left: 363, top: 19221, position: 'absolute'}} src="https://via.placeholder.com/414x841" />
-    <div style={{left: 727, top: 20072, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 3: Mentor Page</div>
-    <img style={{width: 412, height: 841, left: 952, top: 20198, position: 'absolute'}} src="https://via.placeholder.com/412x841" />
-    <img style={{width: 414, height: 841, left: 363, top: 20198, position: 'absolute'}} src="https://via.placeholder.com/414x841" />
-    <div style={{left: 650, top: 21049, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 4: Scheduling Appointments</div>
-    <img style={{width: 412, height: 841, left: 952, top: 21175, position: 'absolute'}} src="https://via.placeholder.com/412x841" />
-    <img style={{width: 414, height: 841, left: 363, top: 21175, position: 'absolute'}} src="https://via.placeholder.com/414x841" />
-    <div style={{left: 610, top: 22026, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 5: Scheduling Appointments - Time</div>
-    <img style={{width: 414, height: 841, left: 363, top: 22152, position: 'absolute'}} src="https://via.placeholder.com/414x841" />
-    <img style={{width: 412, height: 841, left: 952, top: 22152, position: 'absolute'}} src="https://via.placeholder.com/412x841" />
-    <div style={{left: 492, top: 23003, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 6: Scheduling Appointments - Mode of Communication</div>
-    <img style={{width: 412, height: 837, left: 952, top: 23129, position: 'absolute'}} src="https://via.placeholder.com/412x837" />
-    <img style={{width: 414, height: 837, left: 363, top: 23129, position: 'absolute'}} src="https://via.placeholder.com/414x837" />
-    <div style={{left: 515, top: 23976, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 7: Scheduling Appointments - Confirmation Screen</div>
-    <img style={{width: 414, height: 841, left: 363, top: 24102, position: 'absolute'}} src="https://via.placeholder.com/414x841" />
-    <img style={{width: 414, height: 841, left: 952, top: 24102, position: 'absolute'}} src="https://via.placeholder.com/414x841" />
-    <div style={{left: 751, top: 24953, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 8: Wellness</div>
-    <img style={{width: 414, height: 841, left: 363, top: 25079, position: 'absolute'}} src="https://via.placeholder.com/414x841" />
-    <img style={{width: 414, height: 841, left: 952, top: 25079, position: 'absolute'}} src="https://via.placeholder.com/414x841" />
-    <div style={{left: 776, top: 25930, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 9: Chat</div>
-    <img style={{width: 414, height: 841, left: 363, top: 26056, position: 'absolute'}} src="https://via.placeholder.com/414x841" />
-    <img style={{width: 414, height: 841, left: 951, top: 26056, position: 'absolute'}} src="https://via.placeholder.com/414x841" />
-    <div style={{width: 1084, left: 425, top: 7300, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'}}>I used pencil-and-paper sketches to brainstorm and conceptualize ideas, capturing initial thoughts and design elements for the app's interface.</div>
-    <div style={{left: 771, top: 26907, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 10: Chat</div>
-    <img style={{width: 414, height: 841, left: 363, top: 27033, position: 'absolute'}} src="https://via.placeholder.com/414x841" />
-    <img style={{width: 414, height: 841, left: 951, top: 27033, position: 'absolute'}} src="https://via.placeholder.com/414x841" />
-    <div style={{left: 763, top: 27884, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Epilogue', fontStyle: 'italic', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>Screen 11: Profile</div>
-    <div style={{left: 425, top: 28084, position: 'absolute', color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>REFLECTIONS & KEY TAKEAWAYS</div>
-    <div style={{width: 1084, left: 425, top: 28154, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'}}>The design journey was a learning curve, emphasizing the value of upfront work in the low-fidelity stage, user feedback, and robust usability testing. Challenges emerged from inexperience, particularly in translating insights into personas and AI-based support. However, adapting to user concerns led to a successful pivot in the design process.</div>
-    <div style={{width: 1084, left: 425, top: 28474, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'}}>Our project underscored the importance of inclusivity and accessibility. While our personas were diverse, we recognized the need for broader user group representation. A more extensive user research phase would have ensured a more inclusive design.</div>
-    <div style={{width: 1084, left: 425, top: 28694, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'}}>My independent redesign process highlighted the significance of iterative design, incorporating new insights to refine both aesthetics and usability. Collaborative efforts proved rewarding, showcasing the power of teamwork in shaping SafeChat into a refined, user-centric platform.</div>
-    <div style={{width: 1084, left: 425, top: 28964, position: 'absolute', color: 'black', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 50, wordWrap: 'break-word'}}>Through dedication, communication, and a cohesive team culture, we were able to craft a mental health support platform that surpassed individual contributions, evolving SafeChat into a more refined and user-centric platform.</div>
-    <div style={{width: 500, height: 500, left: 1154, top: 29471, position: 'absolute', background: '#CCCCCC'}} />
-    <img style={{width: 500, height: 500, left: 74, top: 29471, position: 'absolute'}} src="https://via.placeholder.com/500x500" />
-    <img style={{width: 500, height: 500, left: 614, top: 29471, position: 'absolute'}} src="https://via.placeholder.com/500x500" />
+    <img style="width: 1318px; height: 1138px; left: 230px; top: 5893px; position: absolute" src="https://via.placeholder.com/1318x1138" />
+    <img style="width: 1446px; height: 457px; left: 148px; top: 4302px; position: absolute" src="https://via.placeholder.com/1446x457" />
+    <img style="width: 1364px; height: 834px; left: 207px; top: 4909px; position: absolute" src="https://via.placeholder.com/1364x834" />
+    <div style="left: 425px; top: 4032px; position: absolute; color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 500; line-height: 50px; word-wrap: break-word">STORYBOARDING THE EXPERIENCE</div>
+    <div style="width: 1084px; left: 425px; top: 4102px; position: absolute; color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">Visual storyboards outlined crucial user moments and emotions throughout SafeChat's mental health support journey.</div>
+    <div style="left: 693px; top: 3882px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Mike’s User Journey Map</div>
+    <div style="left: 572px; top: 4759px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Storyboard Created with Storyboard That</div>
+    <div style="left: 640px; top: 5743px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Storyboard Created with Storyboard That</div>
+    <div style="left: 576px; top: 7031px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Storyboard Created with Images, where I dressed up as Mike</div>
+    <img style="width: 409px; height: 532px; left: 230px; top: 7578px; position: absolute" src="https://via.placeholder.com/409x532" />
+    <img style="width: 413px; height: 532px; left: 688px; top: 7578px; position: absolute" src="https://via.placeholder.com/413x532" />
+    <img style="width: 398px; height: 532px; left: 1150px; top: 7578px; position: absolute" src="https://via.placeholder.com/398x532" />
+    <img style="width: 409px; height: 542px; left: 462px; top: 8221px; position: absolute" src="https://via.placeholder.com/409x542" />
+    <img style="width: 406px; height: 542px; left: 920px; top: 8221px; position: absolute" src="https://via.placeholder.com/406x542" />
+    <div style="left: 312px; top: 8121px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 1: Homepage</div>
+    <div style="left: 741px; top: 8121px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 2: Instant Support</div>
+    <div style="left: 1176px; top: 8121px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 3: Scheduled Support</div>
+    <div style="left: 544px; top: 8778px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 4: Journaling</div>
+    <div style="left: 934px; top: 8778px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 5: Additional Resources</div>
+    <div style="left: 425px; top: 8978px; position: absolute; color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 500; line-height: 50px; word-wrap: break-word">LOW-FIDELITY WIREFRAMES</div>
+    <div style="width: 1084px; left: 425px; top: 9048px; position: absolute; color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">We crafted low-fidelity wireframes in Figma to visualize SafeChat's interface structure. Utilizing simple shapes and basic elements, they outlined the layout and placement of key features within the app.</div>
+    <img style="width: 303px; height: 621px; left: 1129px; top: 9348px; position: absolute" src="https://via.placeholder.com/303x621" />
+    <img style="width: 303px; height: 621px; left: 739px; top: 9348px; position: absolute" src="https://via.placeholder.com/303x621" />
+    <img style="width: 303px; height: 621px; left: 348px; top: 9348px; position: absolute" src="https://via.placeholder.com/303x621" />
+    <img style="width: 303px; height: 626.07px; left: 348px; top: 10029px; position: absolute" src="https://via.placeholder.com/303x626" />
+    <img style="width: 303px; height: 626px; left: 739px; top: 10029px; position: absolute" src="https://via.placeholder.com/303x626" />
+    <img style="width: 303px; height: 626px; left: 1129px; top: 10029px; position: absolute" src="https://via.placeholder.com/303x626" />
+    <img style="width: 303px; height: 626.59px; left: 348px; top: 10715px; position: absolute" src="https://via.placeholder.com/303x627" />
+    <img style="width: 303px; height: 627px; left: 739px; top: 10715px; position: absolute" src="https://via.placeholder.com/303x627" />
+    <img style="width: 303px; height: 627px; left: 1129px; top: 10715px; position: absolute" src="https://via.placeholder.com/303x627" />
+    <img style="width: 303px; height: 633px; left: 348px; top: 11402px; position: absolute" src="https://via.placeholder.com/303x633" />
+    <img style="width: 313px; height: 638px; left: 739px; top: 11397px; position: absolute" src="https://via.placeholder.com/313x638" />
+    <img style="width: 311px; height: 633px; left: 1129px; top: 11402px; position: absolute" src="https://via.placeholder.com/311x633" />
+    <div style="left: 425px; top: 12185px; position: absolute; color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 500; line-height: 50px; word-wrap: break-word">ANNOTATED WIREFRAMES</div>
+    <div style="width: 1084px; left: 425px; top: 12255px; position: absolute; color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">I annotated each wireframe, providing an in-depth depiction of the app's functionalities and interactions.</div>
+    <img style="width: 1044px; height: 769px; left: 371px; top: 12505px; position: absolute" src="https://via.placeholder.com/1044x769" />
+    <img style="width: 1026px; height: 774px; left: 392px; top: 13308px; position: absolute" src="https://via.placeholder.com/1026x774" />
+    <img style="width: 1026px; height: 793px; left: 391px; top: 14132px; position: absolute" src="https://via.placeholder.com/1026x793" />
+    <img style="width: 1029px; height: 795px; left: 391px; top: 14975px; position: absolute" src="https://via.placeholder.com/1029x795" />
+    <img style="width: 1029px; height: 817px; left: 391px; top: 15820px; position: absolute" src="https://via.placeholder.com/1029x817" />
+    <div style="left: 425px; top: 16787px; position: absolute; color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 500; line-height: 50px; word-wrap: break-word">HIGH-FIDELITY PROTOTYPE</div>
+    <div style="width: 1084px; left: 425px; top: 16857px; position: absolute; color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">Our team developed high-fidelity prototypes, undergoing significant iterations to enhance visual appeal and user interactions. Later, I undertook an independent iterative redesign, focusing on refining the UI and improving user experience.</div>
+    <div style="left: 445px; top: 17207px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">My Team’s Original UI</div>
+    <div style="left: 1053px; top: 17207px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">My Redesigned UI</div>
+    <img style="width: 412px; height: 841px; left: 952px; top: 17267px; position: absolute" src="https://via.placeholder.com/412x841" />
+    <div style="left: 741px; top: 18118px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 1: Homepage</div>
+    <img style="width: 412px; height: 841px; left: 952px; top: 18244px; position: absolute" src="https://via.placeholder.com/412x841" />
+    <img style="width: 412px; height: 841px; left: 363px; top: 17267px; position: absolute" src="https://via.placeholder.com/412x841" />
+    <img style="width: 412px; height: 841px; left: 363px; top: 18244px; position: absolute" src="https://via.placeholder.com/412x841" />
+    <div style="left: 711px; top: 19095px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 2: Scheduled Help</div>
+    <img style="width: 412px; height: 841px; left: 952px; top: 19221px; position: absolute" src="https://via.placeholder.com/412x841" />
+    <img style="width: 414px; height: 841px; left: 363px; top: 19221px; position: absolute" src="https://via.placeholder.com/414x841" />
+    <div style="left: 727px; top: 20072px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 3: Mentor Page</div>
+    <img style="width: 412px; height: 841px; left: 952px; top: 20198px; position: absolute" src="https://via.placeholder.com/412x841" />
+    <img style="width: 414px; height: 841px; left: 363px; top: 20198px; position: absolute" src="https://via.placeholder.com/414x841" />
+    <div style="left: 650px; top: 21049px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 4: Scheduling Appointments</div>
+    <img style="width: 412px; height: 841px; left: 952px; top: 21175px; position: absolute" src="https://via.placeholder.com/412x841" />
+    <img style="width: 414px; height: 841px; left: 363px; top: 21175px; position: absolute" src="https://via.placeholder.com/414x841" />
+    <div style="left: 610px; top: 22026px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 5: Scheduling Appointments - Time</div>
+    <img style="width: 414px; height: 841px; left: 363px; top: 22152px; position: absolute" src="https://via.placeholder.com/414x841" />
+    <img style="width: 412px; height: 841px; left: 952px; top: 22152px; position: absolute" src="https://via.placeholder.com/412x841" />
+    <div style="left: 492px; top: 23003px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 6: Scheduling Appointments - Mode of Communication</div>
+    <img style="width: 412px; height: 837px; left: 952px; top: 23129px; position: absolute" src="https://via.placeholder.com/412x837" />
+    <img style="width: 414px; height: 837px; left: 363px; top: 23129px; position: absolute" src="https://via.placeholder.com/414x837" />
+    <div style="left: 515px; top: 23976px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 7: Scheduling Appointments - Confirmation Screen</div>
+    <img style="width: 414px; height: 841px; left: 363px; top: 24102px; position: absolute" src="https://via.placeholder.com/414x841" />
+    <img style="width: 414px; height: 841px; left: 952px; top: 24102px; position: absolute" src="https://via.placeholder.com/414x841" />
+    <div style="left: 751px; top: 24953px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 8: Wellness</div>
+    <img style="width: 414px; height: 841px; left: 363px; top: 25079px; position: absolute" src="https://via.placeholder.com/414x841" />
+    <img style="width: 414px; height: 841px; left: 952px; top: 25079px; position: absolute" src="https://via.placeholder.com/414x841" />
+    <div style="left: 776px; top: 25930px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 9: Chat</div>
+    <img style="width: 414px; height: 841px; left: 363px; top: 26056px; position: absolute" src="https://via.placeholder.com/414x841" />
+    <img style="width: 414px; height: 841px; left: 951px; top: 26056px; position: absolute" src="https://via.placeholder.com/414x841" />
+    <div style="width: 1084px; left: 425px; top: 7300px; position: absolute; color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">I used pencil-and-paper sketches to brainstorm and conceptualize ideas, capturing initial thoughts and design elements for the app's interface.</div>
+    <div style="left: 771px; top: 26907px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 10: Chat</div>
+    <img style="width: 414px; height: 841px; left: 363px; top: 27033px; position: absolute" src="https://via.placeholder.com/414x841" />
+    <img style="width: 414px; height: 841px; left: 951px; top: 27033px; position: absolute" src="https://via.placeholder.com/414x841" />
+    <div style="left: 763px; top: 27884px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Epilogue; font-style: italic; font-weight: 500; line-height: 50px; word-wrap: break-word">Screen 11: Profile</div>
+    <div style="left: 425px; top: 28084px; position: absolute; color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 500; line-height: 50px; word-wrap: break-word">REFLECTIONS & KEY TAKEAWAYS</div>
+    <div style="width: 1084px; left: 425px; top: 28154px; position: absolute; color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">The design journey was a learning curve, emphasizing the value of upfront work in the low-fidelity stage, user feedback, and robust usability testing. Challenges emerged from inexperience, particularly in translating insights into personas and AI-based support. However, adapting to user concerns led to a successful pivot in the design process.</div>
+    <div style="width: 1084px; left: 425px; top: 28474px; position: absolute; color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">Our project underscored the importance of inclusivity and accessibility. While our personas were diverse, we recognized the need for broader user group representation. A more extensive user research phase would have ensured a more inclusive design.</div>
+    <div style="width: 1084px; left: 425px; top: 28694px; position: absolute; color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">My independent redesign process highlighted the significance of iterative design, incorporating new insights to refine both aesthetics and usability. Collaborative efforts proved rewarding, showcasing the power of teamwork in shaping SafeChat into a refined, user-centric platform.</div>
+    <div style="width: 1084px; left: 425px; top: 28964px; position: absolute; color: black; font-size: 32px; font-family: Epilogue; font-weight: 400; line-height: 50px; word-wrap: break-word">Through dedication, communication, and a cohesive team culture, we were able to craft a mental health support platform that surpassed individual contributions, evolving SafeChat into a more refined and user-centric platform.</div>
+    <div style="width: 500px; height: 500px; left: 1154px; top: 29471px; position: absolute; background: #CCCCCC"></div>
+    <img style="width: 500px; height: 500px; left: 74px; top: 29471px; position: absolute" src="https://via.placeholder.com/500x500" />
+    <img style="width: 500px; height: 500px; left: 614px; top: 29471px; position: absolute" src="https://via.placeholder.com/500x500" />
   </div>
-  <div style={{width: 1728, height: 670, left: 0, top: 0, position: 'absolute'}}>
-    <img style={{width: 1728, height: 670, left: 0, top: 0, position: 'absolute'}} src="https://via.placeholder.com/1728x670" />
-    <div style={{left: 75, top: 35, position: 'absolute', color: 'white', fontSize: 20, fontFamily: 'Epilogue', fontWeight: '600', lineHeight: 27, wordWrap: 'break-word'}}>KATIE HANCOCK</div>
-    <div style={{left: 1581, top: 35, position: 'absolute', color: 'black', fontSize: 17, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 27, wordWrap: 'break-word'}}>Resume</div>
-    <div style={{left: 1506, top: 35, position: 'absolute', color: 'black', fontSize: 17, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 27, wordWrap: 'break-word'}}>About</div>
-    <div style={{left: 1409, top: 35, position: 'absolute', color: 'black', fontSize: 17, fontFamily: 'Epilogue', fontWeight: '400', lineHeight: 27, wordWrap: 'break-word'}}>Archived</div>
-    <div style={{left: 1341, top: 35, position: 'absolute', color: 'black', fontSize: 17, fontFamily: 'Epilogue', fontWeight: '600', lineHeight: 27, wordWrap: 'break-word'}}>Work</div>
+  <div style="width: 1728px; height: 670px; left: 0px; top: 0px; position: absolute">
+    <img style="width: 1728px; height: 670px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/1728x670" />
+    <div style="left: 75px; top: 35px; position: absolute; color: white; font-size: 20px; font-family: Epilogue; font-weight: 600; line-height: 27px; word-wrap: break-word">KATIE HANCOCK</div>
+    <div style="left: 1581px; top: 35px; position: absolute; color: black; font-size: 17px; font-family: Epilogue; font-weight: 400; line-height: 27px; word-wrap: break-word">Resume</div>
+    <div style="left: 1506px; top: 35px; position: absolute; color: black; font-size: 17px; font-family: Epilogue; font-weight: 400; line-height: 27px; word-wrap: break-word">About</div>
+    <div style="left: 1409px; top: 35px; position: absolute; color: black; font-size: 17px; font-family: Epilogue; font-weight: 400; line-height: 27px; word-wrap: break-word">Archived</div>
+    <div style="left: 1341px; top: 35px; position: absolute; color: black; font-size: 17px; font-family: Epilogue; font-weight: 600; line-height: 27px; word-wrap: break-word">Work</div>
   </div>
-  <div style={{left: 425, top: 7902, position: 'absolute', color: '#1565C0', fontSize: 32, fontFamily: 'Epilogue', fontWeight: '500', lineHeight: 50, wordWrap: 'break-word'}}>INTERFACE SKETCHES</div>
+  <div style="left: 425px; top: 7902px; position: absolute; color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 500; line-height: 50px; word-wrap: break-word">INTERFACE SKETCHES</div>
 </div>
