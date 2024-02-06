@@ -1,11 +1,31 @@
-<div style="width: 1728px; height: 30851px; position: relative; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
-  <div style="width: 1728px; height: 98px; left: 0px; top: 30753px; position: absolute">
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@100;300;400&display=swap" rel="stylesheet">
+</head>
+<div style="position: relative; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
+  <div class="div">
+    <div class="div-2">
+      <div class="div-3">
+        <div class="div-4"><a href="index.html">KATIE HANCOCK</a></div>
+        <div class="div-5">
+          <div class="div-6"><a href="index.html">Work</a></div>
+          <div class="div-7"><a href="archived.html">Archived</a></div>
+          <div class="div-8"><a href="about.html">About</a></div>
+          <div class="div-9"><a href="resume.html">Resume</a></div>
+        </div>
+      </div>
+      <img
+        loading="lazy"
+        src="safechat.png"
+        class="img"
+      />
+    </div>
+  <div style="width:auto; height: 98px; top: 30753px; position: absolute">
     <div style="left: 82px; top: 35px; position: absolute; color: rgba(0, 0, 0, 0.62); font-size: 20px; font-family: Epilogue; font-weight: 400; line-height: 27px; word-wrap: break-word">© Designed and Developed by Katie Hancock</div>
     <img style="width: 50px; height: 50px; left: 1454px; top: 24px; position: absolute" src="https://via.placeholder.com/50x50" />
     <img style="width: 50px; height: 50px; left: 1529px; top: 24px; position: absolute" src="https://via.placeholder.com/50x50" />
     <img style="width: 50px; height: 50px; left: 1604px; top: 24px; position: absolute" src="https://via.placeholder.com/50x50" />
   </div>
-  <div style="width: 1728px; height: 30081px; left: 0px; top: 672px; position: absolute">
+  <div style="height: 30081px; left: 0px; top: 672px; position: absolute">
     <div style="width: 228px; height: 69px; left: 425px; top: 70px; position: absolute; color: black; font-size: 48px; font-family: Epilogue; font-weight: 600; line-height: 27px; word-wrap: break-word">SafeChat</div>
     <div style="width: 218px; left: 100px; top: 856px; position: absolute; color: black; font-size: 24px; font-family: Epilogue; font-weight: 400; line-height: 30px; word-wrap: break-word">Ashlyn Aske<br/>Christian Ramos<br/>Katie Hancock<br/>Shivam Hingorani</div>
     <div style="left: 100px; top: 814px; position: absolute; color: black; font-size: 24px; font-family: Epilogue; font-weight: 700; line-height: 27px; word-wrap: break-word">Team</div>
@@ -508,14 +528,6 @@
     <img style="width: 500px; height: 500px; left: 74px; top: 29471px; position: absolute" src="https://via.placeholder.com/500x500" />
     <img style="width: 500px; height: 500px; left: 614px; top: 29471px; position: absolute" src="https://via.placeholder.com/500x500" />
   </div>
-  <div style="width: 1728px; height: 670px; left: 0px; top: 0px; position: absolute">
-    <img style="width: 1728px; height: 670px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/1728x670" />
-    <div style="left: 75px; top: 35px; position: absolute; color: white; font-size: 20px; font-family: Epilogue; font-weight: 600; line-height: 27px; word-wrap: break-word"><a href="index.html">KATIE HANCOCK</a></div>
-    <div style="left: 1581px; top: 35px; position: absolute; color: black; font-size: 17px; font-family: Epilogue; font-weight: 400; line-height: 27px; word-wrap: break-word"><a href="resume.html">Resume</a></div>
-    <div style="left: 1506px; top: 35px; position: absolute; color: black; font-size: 17px; font-family: Epilogue; font-weight: 400; line-height: 27px; word-wrap: break-word"><a href="about.html">About</a></div>
-    <div style="left: 1409px; top: 35px; position: absolute; color: black; font-size: 17px; font-family: Epilogue; font-weight: 400; line-height: 27px; word-wrap: break-word"><a href="archived.html">Archived</a></div>
-    <div style="left: 1341px; top: 35px; position: absolute; color: black; font-size: 17px; font-family: Epilogue; font-weight: 600; line-height: 27px; word-wrap: break-word"><a href="index.html">Work</a></div>
-  </div>
   <div style="left: 425px; top: 7902px; position: absolute; color: #1565C0; font-size: 32px; font-family: Epilogue; font-weight: 500; line-height: 50px; word-wrap: break-word">INTERFACE SKETCHES</div>
 </div>
 
@@ -523,5 +535,82 @@
   a {
     color: unset;
     text-decoration: unset;
+  }
+  .div {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    display: flex;
+    padding-bottom: 24px;
+    flex-direction: column;
+  }
+  .div-2 {
+    background-color: #edadc7;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    color: #000;
+    padding: 39px 75px 0;
+  }
+  @media (max-width: 991px) {
+    .div-2 {
+      max-width: 100%;
+      padding: 0 20px;
+    }
+  }
+  .div-3 {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-3 {
+      max-width: 100%;
+      margin-right: 2px;
+      flex-wrap: wrap;
+    }
+  }
+  .div-4 {
+    flex-grow: 1;
+    flex-basis: auto;
+    font: 600 20px/135% Epilogue, sans-serif;
+    color: white;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 17px;
+    font-weight: 400;
+    white-space: nowrap;
+    line-height: 159%;
+  }
+  @media (max-width: 991px) {
+    .div-5 {
+      white-space: initial;
+    }
+  }
+  .div-6 {
+    font-family: Epilogue, sans-serif;
+    font-weight: 600;
+    flex-grow: 1;
+  }
+  .div-7 {
+    font-family: Epilogue, sans-serif;
+  }
+  .div-8 {
+    font-family: Epilogue, sans-serif;
+  }
+  .div-9 {
+    font-family: Epilogue, sans-serif;
+    flex-grow: 1;
+  }
+  .img {
+    width: auto;
+    height: 670px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
   }
 </style>
