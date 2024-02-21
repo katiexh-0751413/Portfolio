@@ -1,4 +1,6 @@
-  .div {
+
+/* Adds some margins and sets up flex box */
+.div {
     justify-content: center;
     background-color: #fff;
     display: flex;
@@ -10,6 +12,8 @@
       padding: 0 20px;
     }
   }
+
+  /* Creates top right nav bar menu */
   .div-2 {
     display: flex;
     width: 100%;
@@ -24,12 +28,16 @@
       flex-wrap: wrap;
     }
   }
+
+  /* My name in the top left */
   .div-3 {
     flex-grow: 1;
     flex-basis: auto;
     font: 600 20px/135% Epilogue, sans-serif;
   }
 
+  /* Styles the top right nav bar to be
+     horizontal instead of vertical */
   .div-4 {
     align-self: start;
     display: flex;
@@ -45,6 +53,7 @@
       white-space: initial;
     }
   }
+
   .div-5 {
     font-family: Epilogue, sans-serif;
     flex-grow: 1;
@@ -72,8 +81,12 @@
       margin-top: 40px;
     }
   }
+
+  /* Creates a little margin space between
+     the top of the flex box and the
+     "Archived work" title */
   .div-10 {
-    margin-top: 59px;
+    margin-top: 60px;
   }
   @media (max-width: 991px) {
     .div-10 {
@@ -81,6 +94,9 @@
       margin-top: 40px;
     }
   }
+
+  /* Puts the first three in flex all in
+     one row */
   .div-11 {
     gap: 20px;
     display: flex;
@@ -92,6 +108,7 @@
       gap: 0px;
     }
   }
+
   .column {
     display: flex;
     flex-direction: column;
@@ -104,6 +121,7 @@
       width: 100%;
     }
   }
+
   .div-12 {
     display: flex;
     flex-grow: 1;
@@ -127,18 +145,6 @@
     }
   }
 
-    /* Flappy Bird */
-    /* .div-25 {
-        justify-content: center;
-        display: flex;
-        flex-direction: column;
-      }
-      @media (max-width: 991px) {
-        .div-25 {
-          max-width: 100%;
-        }
-      } */
-
   /* Instagram Shopping */
   .div-14 {
     display: flex;
@@ -155,6 +161,7 @@
       padding-right: 20px;
     }
   }
+
   .img {
     position: absolute;
     inset: 0;

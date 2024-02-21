@@ -1,3 +1,5 @@
+
+/* Creates margins around the whole page */
 .div {
     justify-content: center;
     background-color: #fff;
@@ -10,6 +12,8 @@
       padding: 0 20px;
     }
   }
+
+  /* Aligns menu at the top */
   .div-2 {
     display: flex;
     width: 100%;
@@ -24,11 +28,16 @@
       flex-wrap: wrap;
     }
   }
+
+  /* My name at the top left */
   .div-3 {
     flex-grow: 1;
     flex-basis: auto;
     font: 600 20px/135% Epilogue, sans-serif;
   }
+
+  /* Makes the nav bar horizontal instead of
+     vertical */
   .div-4 {
     align-self: start;
     display: flex;
@@ -44,21 +53,27 @@
       white-space: initial;
     }
   }
+
+  /* Styles "Work" tab */
   .div-5 {
     font-family: Epilogue, sans-serif;
     font-weight: 600;
     flex-grow: 1;
   }
-  .div-6 {
+
+  /* Styles "Archived" and "About tabs */
+  .div-6, .div-7 {
     font-family: Epilogue, sans-serif;
   }
-  .div-7 {
-    font-family: Epilogue, sans-serif;
-  }
+
+  /* Styles "Resume" tab */
   .div-8 {
     font-family: Epilogue, sans-serif;
     flex-grow: 1;
   }
+
+  /* Adds whitespace between top menu and
+     start of page ("Hello!" and projects) */
   .div-9 {
     margin-top: 85px;
   }
@@ -68,6 +83,9 @@
       margin-top: 40px;
     }
   }
+
+  /* Sets up two columns for flex box with
+     a gap of 20px in the middle */
   .div-10 {
     gap: 20px;
     display: flex;
@@ -79,18 +97,21 @@
       gap: 0px;
     }
   }
+
+  /* Specifies  widths of first column
+     (Capstone and Itinero) */
   .column {
     display: flex;
     flex-direction: column;
     line-height: normal;
     width: 50%;
-    margin-left: 0px;
   }
   @media (max-width: 991px) {
     .column {
       width: 100%;
     }
   }
+
   .div-11 {
     display: flex;
     margin-top: 22px;
@@ -103,6 +124,8 @@
       margin-top: 40px;
     }
   }
+
+  /* Styles "Hello!" */
   .div-12 {
     color: #000;
     font: 500 48px/100% Epilogue, sans-serif;
@@ -113,6 +136,8 @@
       font-size: 40px;
     }
   }
+
+  /* Styles introduction */
   .div-13 {
     color: #000;
     margin-top: 26px;
@@ -123,8 +148,9 @@
       max-width: 100%;
     }
   }
+
+  /* Puts padding above Capstone */
   .div-14 {
-    background-color: #ccc;
     display: flex;
     margin-top: 56px;
     padding-right: 5px;
@@ -137,13 +163,15 @@
       margin-top: 40px;
     }
   }
+
+  /* Makes Capstone fit in the flex box
+     instead of blown up */
   .div-15 {
     display: flex;
     flex-direction: column;
     overflow: hidden;
     position: relative;
     display: flex;
-    min-height: 750px;
     align-items: start;
     padding: 27px 33px 50px;
   }
@@ -153,31 +181,34 @@
       padding: 0 20px;
     }
   }
+
   .img {
-    position: absolute;
-    inset: 0;
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
+    aspect-ratio: 1;
+    object-fit: auto;
     object-position: center;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
   }
   .img-2 {
     aspect-ratio: 1;
     object-fit: auto;
     object-position: center;
-    width: 90px;
-    margin-bottom: 456px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
   }
   @media (max-width: 991px) {
     .img-2 {
-      margin-bottom: 40px;
+      max-width: 100%;
     }
   }
+  /* Itinero box */
   .div-16 {
     background-color: #ccc;
     display: flex;
     margin-top: 66px;
-    height: 750px;
+    height: 400px;
     flex-direction: column;
   }
   @media (max-width: 991px) {
@@ -186,6 +217,9 @@
       margin-top: 40px;
     }
   }
+
+  /* Styles second column's components
+     (SafeChat and IslandWood) */
   .column-2 {
     display: flex;
     flex-direction: column;
@@ -208,6 +242,8 @@
       margin-top: 40px;
     }
   }
+
+  /* Styles SafeChat box */
   .img-3 {
     aspect-ratio: 1.01;
     object-fit: auto;
@@ -221,12 +257,12 @@
       max-width: 100%;
     }
   }
+
+  /* Placement of IslandWood box */
   .div-18 {
     justify-content: center;
-    background-color: #ccc;
     display: flex;
     margin-top: 76px;
-    padding-right: 5px;
     flex-direction: column;
   }
   @media (max-width: 991px) {
@@ -235,6 +271,8 @@
       margin-top: 40px;
     }
   }
+
+  /* Sizing of IslandWood box */
   .img-4 {
     aspect-ratio: 1;
     object-fit: auto;
@@ -246,6 +284,8 @@
       max-width: 100%;
     }
   }
+
+  /* Styles footer */
   .div-19 {
     display: flex;
     margin-top: 57px;
@@ -261,6 +301,9 @@
       margin-top: 40px;
     }
   }
+
+  /* Styles "Designed and Developed by
+     Katie Hancock" text */
   .div-20 {
     color: rgba(0, 0, 0, 0.62);
     flex-grow: 1;
@@ -273,29 +316,31 @@
       max-width: 100%;
     }
   }
+
+  /* Places gap between Gmail and
+     LinkedIn logos */
   .div-21 {
     display: flex;
     justify-content: space-between;
     gap: 20px;
   }
+
+  /* Styles Gmail logo */
   .img-5 {
     aspect-ratio: 1;
     object-fit: auto;
     object-position: center;
     width: 50px;
   }
+  /* Styles LinkedIn logo */
   .img-6 {
     aspect-ratio: 1;
     object-fit: auto;
     object-position: center;
     width: 50px;
   }
-  .img-7 {
-    aspect-ratio: 1;
-    object-fit: auto;
-    object-position: center;
-    width: 50px;
-  }
+
+  /* Styles nav bar to not look like a link */
   a {
     color: unset;
     text-decoration: unset;
