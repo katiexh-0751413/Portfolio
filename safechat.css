@@ -159,3 +159,56 @@
     margin-left: 115px;
     width: 85%;
   }
+  .div-19 {
+    display: flex;
+    margin-top: 57px;
+    width: 100%;
+    padding: 39px 75px 24px;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-19 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      margin-top: 40px;
+    }
+  }
+
+  /* Styles "Designed and Developed by
+     Katie Hancock" text */
+  .div-20 {
+    color: rgba(0, 0, 0, 0.62);
+    flex-grow: 1;
+    flex-basis: auto;
+    margin: auto 0;
+    font: 400 20px/135% Epilogue, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-20 {
+      max-width: 100%;
+    }
+  }
+
+  /* Places gap between Gmail and
+     LinkedIn logos */
+  .div-21 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  /* Styles Gmail logo */
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 50px;
+  }
+  /* Styles LinkedIn logo */
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 50px;
+  }
