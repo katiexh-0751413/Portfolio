@@ -133,17 +133,6 @@
       margin-top: 40px;
     }
   }
-  .div-13 {
-    background-color: #ccc;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-  @media (max-width: 991px) {
-    .div-13 {
-      max-width: 100%;
-    }
-  }
 
   /* Instagram Shopping */
   .div-14 {
@@ -189,19 +178,6 @@
   @media (max-width: 991px) {
     .div-16 {
       max-width: 100%;
-    }
-  }
-  .div-17 {
-    background-color: #ccc;
-    display: flex;
-    margin-top: 50px;
-    flex-direction: column;
-    justify-content: center;
-  }
-  @media (max-width: 991px) {
-    .div-17 {
-      max-width: 100%;
-      margin-top: 40px;
     }
   }
 
@@ -257,13 +233,6 @@
     .div-21 {
       max-width: 100%;
       margin-top: 40px;
-    }
-  }
-  .div-22 {
-  }
-  @media (max-width: 991px) {
-    .div-22 {
-      max-width: 100%;
     }
   }
   .div-23 {
@@ -354,17 +323,6 @@
     .div-28 {
       max-width: 100%;
       margin-top: 40px;
-    }
-  }
-  .div-29 {
-    background-color: #ccc;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-  @media (max-width: 991px) {
-    .div-29 {
-      max-width: 100%;
     }
   }
 
@@ -682,6 +640,7 @@
       width: 100%;
     }
   }
+  /* Itinero */
   .div-44 {
     background-color: #ccc;
     display: flex;
