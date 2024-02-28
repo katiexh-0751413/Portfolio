@@ -1,5 +1,10 @@
+  body, html {
+    margin: 0;
+    padding: 0;
+  }
+
   .div {
-    background-color: #fff;
+   background-color: #fff;
     display: flex;
     padding-bottom: 24px;
     flex-direction: column;
@@ -89,6 +94,8 @@
       padding: 0 20px;
     }
   }
+
+  /* Logo */
   .div-11 {
     display: flex;
     margin-left: 26px;
