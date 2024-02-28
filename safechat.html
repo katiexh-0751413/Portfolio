@@ -129,33 +129,48 @@
       </div>
       <div class="div-11">
         <div class="inline-block" style="text-align: center">
-          <img
-            loading="lazy"
-            src="images/safechat/sketch1.png"
-            class="sketches"
-          />
-          <img
-            loading="lazy"
-            src="images/safechat/sketch2.png"
-            class="sketches"
-          />
-          <img
-            loading="lazy"
-            src="images/safechat/sketch3.png"
-            class="sketches"
-          />
+          <div class="sketchdiv" style="margin-left: 100px">
+            <img
+              loading="lazy"
+              src="images/safechat/sketch1.png"
+              class="sketches"
+            />
+            <span class="sketchcaption" style="padding: 30px"><i>Screen 1: Homepage</i></span>
+          </div>
+          <div class="sketchdiv">
+            <img
+              loading="lazy"
+              src="images/safechat/sketch2.png"
+              class="sketches"
+            />
+            <span class="sketchcaption"><i>Screen 2: Instant Support</i></span>
+          </div>
+          <div class="sketchdiv">
+            <img
+              loading="lazy"
+              src="images/safechat/sketch3.png"
+              class="sketches"
+            />
+            <span class="sketchcaption"><i>Screen 3: Scheduled Support</i></span>
+          </div>
         </div>
         <div class="inline-block" style="text-align: center">
-          <img
-            loading="lazy"
-            src="images/safechat/sketch4.png"
-            class="sketches"
-          />
-          <img
-            loading="lazy"
-            src="images/safechat/sketch5.png"
-            class="sketches"
-          />
+          <div class="sketchdiv" style="margin-left: 300px;">
+            <img
+              loading="lazy"
+              src="images/safechat/sketch4.png"
+              class="sketches"
+            />
+            <span class="sketchcaption"><i>Screen 4: Journaling</i></span>
+          </div>
+          <div class="sketchdiv" style="width: 30%">
+            <img
+              loading="lazy"
+              src="images/safechat/sketch5.png"
+              class="sketches"
+            />
+            <span class="sketchcaption"><i>Screen 5: Additional Resources</i></span>
+          </div>
         </div>
       </div>
       <div class="subtitle">LOW-FIDELITY WIREFRAMES</div>
@@ -200,61 +215,76 @@
         <span class="text">Our team developed high-fidelity prototypes, undergoing significant iterations to enhance visual appeal and user interactions. Later, I undertook an independent iterative redesign, focusing on refining the UI and improving user experience.</span>
       </div>
       <div class="div-11">
+        <div class="inline-block" style="margin-bottom: 10px">
+          <span style="margin-left: 250px"><i>My Team’s Original UI</i></span>
+          <span style="margin-left: 500px"><i>My Redesigned UI</i></span>
+        </div>
         <img
           loading="lazy"
           src="images/safechat/hifi1.png"
           class="userjourney"
         />
+        <figcaption class="hifi"><i>Screen 1: Homepage</i></figcaption>
         <img
           loading="lazy"
           src="images/safechat/hifi2.png"
           class="userjourney"
         />
+        <figcaption class="hifi"><i>Screen 2: Homepage</i></figcaption>
         <img
           loading="lazy"
           src="images/safechat/hifi3.png"
           class="userjourney"
         />
+        <figcaption class="hifi"><i>Screen 3: Homepage</i></figcaption>
         <img
           loading="lazy"
           src="images/safechat/hifi4.png"
           class="userjourney"
         />
+        <figcaption class="hifi"><i>Screen 4: Homepage</i></figcaption>
         <img
           loading="lazy"
           src="images/safechat/hifi5.png"
           class="userjourney"
         />
+        <figcaption class="hifi"><i>Screen 5: Homepage</i></figcaption>
         <img
           loading="lazy"
           src="images/safechat/hifi6.png"
           class="userjourney"
         />
+        <figcaption class="hifi"><i>Screen 6: Homepage</i></figcaption>
         <img
           loading="lazy"
           src="images/safechat/hifi7.png"
           class="userjourney"
         />
+        <figcaption class="hifi"><i>Screen 7: Homepage</i></figcaption>
         <img
           loading="lazy"
           src="images/safechat/hifi8.png"
           class="userjourney"
         />
+        <figcaption class="hifi"><i>Screen 8: Homepage</i></figcaption>
         <img
           loading="lazy"
           src="images/safechat/hifi9.png"
           class="userjourney"
         />
+        <figcaption class="hifi"><i>Screen 9: Homepage</i></figcaption>
         <img
           loading="lazy"
           src="images/safechat/hifi10.png"
           class="userjourney"
         />
+        <figcaption class="hifi"><i>Screen 10: Homepage</i></figcaption>
         <img
           loading="lazy"
           src="images/safechat/hifi11.png"
           class="userjourney"
         />
+        <figcaption class="hifi"><i>Screen 11: Homepage</i></figcaption>
       </div>
       <div class="subtitle">REFLECTIONS & KEY TAKEAWAYS</div>
       <div style="margin-bottom: 15px;">
@@ -484,12 +514,26 @@
   }
   .sketches {
     width: 25%;
-    padding: 20px;
+    padding-left: 20px;
     height: 532px;
     width: 409px;
   }
   .index {
     width: 30%;
     padding: 20px;
+  }
+  .hifi {
+    margin: 15px 0 70px 0;
+    text-align: center;
+  }
+  .sketchdiv {
+    display: flex;
+    flex-direction: column;
+    width: 29%;
+    float:left;
+  }
+  .sketchcaption {
+    padding: 30px;
+    margin-bottom: 30px;
   }
 </style>
